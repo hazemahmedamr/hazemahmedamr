@@ -23,11 +23,17 @@ I love working on Computer Graphics, and general Systems Programming. I wish to 
 - Take a look at my implementation of famous [data structures and algorithms](https://github.com/XL3/cs-cpp), in C++.
 - [enwik8](https://github.com/XL3/enwik8), my attempt to losslessly compress the first 100MB of Wikipedia.
 
-## [My GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
+<!--## [My GitHub Stats](https://github.com/anuraghazra/github-readme-stats)-->
+
+### Github Stats
 
 [![RyuzakiH's github stats](https://github-readme-stats.vercel.app/api?username=RyuzakiH&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/RyuzakiH?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuzakiH&langs_count=10&layout=compact&theme=dark)](https://github.com/XL3?tab=repositories)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuzakiH&langs_count=10&layout=compact&theme=dark)](https://github.com/RyuzakiH?tab=repositories)
+
 </br>
+
+[![Top Repository](https://github-readme-stats.vercel.app/api/pin/?username=RyuzakiH&repo=CloudflareSolverRe&theme=dark)](https://github.com/RyuzakiH/CloudflareSolverRe)
+
 
 ## Reach me @
 
