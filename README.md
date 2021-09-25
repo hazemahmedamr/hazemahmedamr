@@ -2,8 +2,8 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuzakiH&langs_count=10&layout=compact&theme=dark)](https://github.com/RyuzakiH?tab=repositories)-->
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=RyuzakiH&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuzakiH&langs_count=10&layout=compact&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RyuzakiH&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuzakiH&langs_count=10&layout=compact&theme=dark"/>
 </div>
 
 </br>
