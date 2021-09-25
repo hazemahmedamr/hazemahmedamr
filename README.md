@@ -3,4 +3,4 @@
 
 </br>
 
-[![Top Repository](https://github-readme-stats.vercel.app/api/pin/?username=RyuzakiH&repo=CloudflareSolverRe&theme=dark)](https://github.com/RyuzakiH/CloudflareSolverRe)
+<!--[![Top Repository](https://github-readme-stats.vercel.app/api/pin/?username=RyuzakiH&repo=CloudflareSolverRe&theme=dark)](https://github.com/RyuzakiH/CloudflareSolverRe)-->
